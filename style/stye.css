@@ -271,7 +271,8 @@ ul {
 }
 .rasm p {
   text-align: start;
-  box-shadow: rgba(0, 1, 0, 0.56) 0px 22px 70px 4px;
+  box-shadow: rgba(0, 0, 0, 1) 0px 38px 70px 6px;
+  background: rgba(0, 0, 0, 0.6);
 }
 .rasm1 {
   background-image: url("../images/daraxt.png");
