@@ -213,6 +213,9 @@ ul {
   gap: 43px;
   margin-bottom: 22px;
 }
+.link__logo a{
+    color: var(--link-color);
+}
 .right__img {
   display: flex;
   flex-direction: column;
@@ -224,6 +227,7 @@ ul {
   display: flex;
   align-items: center;
   gap: 30px;
+  color: var(--link-color);
 }
 .img__item img {
   border-radius: 12px;
