@@ -195,3 +195,114 @@ font-style: normal;
 font-weight: 700;
 line-height: 120%; /* 57.6px */
 }
+.left__text h1{
+    width: 445px;
+}
+.left__text p{
+    color: var(--text-color);
+width: 56%;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */
+margin-bottom: 30px;
+}
+.link__logo{
+    display: flex;
+    align-items: center;
+    gap: 43px;
+    margin-bottom: 22px;
+}
+.right__img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.link__logo a, .ganster{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.img__item img{
+    border-radius: 12px;
+}
+.img__item{
+    display: flex;
+    gap: 25px;
+}
+.second__container{
+    display: flex;
+    margin-top: 65px;
+}
+.rasmlar{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.hero__three  {
+    margin-top: 65px;
+    text-align: center;
+    margin-bottom: 65px;
+}
+
+.rasm{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-top: 234px;
+    color: var(--white-color);
+    padding-left: 16px;
+    width: 350px;
+    height: 362px;
+    border-radius: 12px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 51.99%, #000 100%);
+}
+.rasm h2{
+    font-family: "Libre Baskerville";
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.rasm p {
+    text-align: start;
+    box-shadow: rgba(0, 1, 0, 0.56) 0px 22px 70px 4px;
+}
+.rasm1{
+    
+    background-image: url("../images/daraxt.png");
+}
+.rasm2{
+    background-image: url("../images/uzum.png");
+}
+.rasm3{
+    background-image: url("../images/tiplisa.png");
+}
+.testimonials{
+    background-color: var(--fone-color);
+    padding-bottom: 60px;
+}
+.test__container{
+    padding-top: 64px;
+    text-align: center;
+}
+.test__temp{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.temp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 27px;
+}
+.temp p {
+    width: 340px;
+}
+h3{
+    font-family: Libre Baskerville;
+}
+.temp img {
+    border-radius: 50%;
+}
